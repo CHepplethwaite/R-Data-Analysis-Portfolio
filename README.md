@@ -159,8 +159,9 @@ This process ensured that the final graphics were both analytically sound and vi
 
 For data visualisation, analytics, or report design work:
 
-**Clifford Hepplethwaite**
-Email: *cliffordrh@gmail.com*
+**Clifford Hepplethwaite**<br/>
+
+Email: *cliffordrh@gmail.com*<br/>
 X (Twitter): [x.com/CHepplethwaite](https://x.com/CHepplethwaite)
 
 ---
