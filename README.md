@@ -59,7 +59,7 @@ README.md
 *A high-level comparison of all value chains across three core PPVC indicators.*
 
 ```
-![Heatmap Overview](plots/Figure 20 (Option 1).png)
+![Bar Chart Overview](plots/figure_20_option_1.png)
 ```
 
 ---
@@ -148,9 +148,9 @@ This process ensured that the final graphics were both analytically sound and vi
 
 ## **6. Credits & Acknowledgements**
 
-* **ANAPRI** – Project Client
-* **Institute of Statistical, Social and Economic Research (ISSER), Ghana** – Lead Research Institution
-* **Bill & Melinda Gates Foundation** – Project Funder
+* **[ANAPRI](https://anapri.net/)** – Project Client
+* **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana** – Lead Research Institution
+* **[Gates Foundation](https://www.gatesfoundation.org/)** – Project Funder
 * **Clifford Hepplethwaite** – Data visualisation, graphics design, copyediting
 
 ---
@@ -161,6 +161,5 @@ For data visualisation, analytics, or report design work:
 
 **Clifford Hepplethwaite**
 Email: *cliffordrh@gmail.com*
-GitHub: **github.com/CHepplethwaite**
 
 ---
