@@ -65,9 +65,6 @@ README.md
 ![Graph](plots/Graph.png)
 
 ---
-![Figure 20 Option 1](plots/figure_20_option_1.png)
-
----
 ![Figure 20 Option 2](plots/figure_20_option_2.png)
 
 ---
@@ -147,10 +144,6 @@ README.md
 
 ---
 ![Table 11](plots/table_11.png)
-
----
----
-![Table 11 Option 2](plots/table_11_option_2.png)
 
 ---
 ![Table 11 Option 3](plots/table_11_option_3.png)
