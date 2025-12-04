@@ -151,7 +151,7 @@ This process ensured that the final graphics were both analytically sound and vi
 * **[ANAPRI](https://anapri.net/)** – Project Client
 * **[Institute of Statistical, Social and Economic Research (ISSER)](https://isser.ug.edu.gh/), Ghana** – Lead Research Institution
 * **[Gates Foundation](https://www.gatesfoundation.org/)** – Project Funder
-* **[Clifford Hepplethwaite](https://www.linkedin.com/in/clifford-hepplethwaite-2b5204348/)** – Data visualisation, graphics design, copyediting
+* **Clifford Hepplethwaite** – Data visualisation, graphics design, copyediting
 
 ---
 
@@ -162,6 +162,7 @@ For data visualisation, analytics, or report design work:
 **Clifford Hepplethwaite**<br/>
 
 Email: *cliffordrh@gmail.com*<br/>
-X (Twitter): [x.com/CHepplethwaite](https://x.com/CHepplethwaite)
+X (Twitter): [x.com/CHepplethwaite](https://x.com/CHepplethwaite)<br/>
+LinkedIn: [Clifford Hepplethwaite](https://www.linkedin.com/in/clifford-hepplethwaite-2b5204348/) 
 
 ---
